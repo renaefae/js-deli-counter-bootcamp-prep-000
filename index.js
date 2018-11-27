@@ -26,7 +26,7 @@ function currentLine(katzDeliLine){
         for (i=0; i<katzDeliLine.length-1; i++){ 
           text = `${text} ${katzDeliLine[i]}, `; 
         } 
-        text = `${text} ${katzDeliLine[katzDeliLine.length-1]}, `; 
+        text = `${text} ${katzDeliLine[katzDeliLine.length-1]}.`; 
         return text; 
     } 
     
