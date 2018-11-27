@@ -33,7 +33,8 @@ function currentLine(katzDeliLine){
 var text = takeANumber(katzDeliLine1, "jane"); 
 console.log(text); 
 
-nowServing (katzDeliLine1); 
+text = nowServing (katzDeliLine1); 
+console.log(text); 
 
 //currentLine(); 
 
