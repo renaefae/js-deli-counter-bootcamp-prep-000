@@ -37,5 +37,6 @@ text = nowServing (katzDeliLine1);
 console.log(text); 
 
 
-//currentLine(); 
+text = currentLine(); 
+console.log(text); 
 
