@@ -38,6 +38,6 @@ text = nowServing (katzDeliLine1);
 console.log(text); 
 
 
-text = currentLine(katzDeliLine1); 
+text = currentLine(katzDeliLine2); 
 console.log(text); 
 
